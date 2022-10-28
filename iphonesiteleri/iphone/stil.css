@@ -1,0 +1,74 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+textarea {overflow:auto;}
+
+/***** RESET *****/
+
+
+.hepsi{ width:1000px; height:auto; margin:0 auto}
+.menu{ width:1000px; height:46px; background:#333}
+.orta1{ width:250px; height:85px; margin:40px auto 0 auto; }
+.orta2{ width:863px; height:79px; margin:0 auto; background:url(images/6sbanner.png) center bottom  no-repeat; padding:327px 0 0 20px}
+.orta3{ width:883px; height:45px; margin:0 auto; background:url(images/shadow.png)}
+.orta4{ width:743px; height:200px; margin:0 auto; font:20px helvetica; color:#666; text-align:center}
+.orta5{ width:880px; height:410px; margin:0 auto; background:#333 url(images/3dtouch.jpg) right no-repeat; padding:70px 0 0 120px}
+.orta6{ width:840px; height:45px;margin:40px auto 0 auto; border-bottom:1px solid #333}
+.orta7{ width:840px; height:229px; margin:40px auto}
+.orta8{ width:840px; height:229px; margin:0 auto; background:url(images/ayraclar.png) no-repeat }
+.alt{ width:840px; height:20px; margin:80px auto 30px auto; background:url(images/footer.png) no-repeat; padding:5px 0 0 0}
+
+.menu ul li{ float:left}
+.menu ul li a{ display:block; text-indent:-2000px; margin:0 0 0 60px}
+.menu ul li#logo a{ width:20px; height:44px; background:url(images/logo.gif) no-repeat; margin:0 0 0 30px}
+.menu ul li#mac a{ width:31px; height:44px; background:url(images/mac.gif) no-repeat}
+.menu ul li#ipad a{ width:30px; height:44px; background:url(images/ipad.gif) no-repeat}
+.menu ul li#iphone a{ width:48px; height:44px; background:url(images/iphone.gif) no-repeat}
+.menu ul li#watch a{ width:44px; height:44px; background:url(images/watch.gif) no-repeat}
+.menu ul li#tv a{ width:20px; height:44px; background:url(images/tv.gif) no-repeat}
+.menu ul li#music a{ width:40px; height:44px; background:url(images/music.gif) no-repeat}
+.menu ul li#destek a{ width:48px; height:44px; background:url(images/destek.gif) no-repeat}
+.menu ul li#search a{ width:20px; height:44px; background:url(images/search.gif) no-repeat;margin:0 0 0 100px}
+.menu ul li#shop a{ width:18px; height:44px; background:url(images/shop.gif) no-repeat;margin:0 0 0 100px}
+.menu ul li a:hover{opacity:0.5}
+
+.orta2ic1{ width:66px; height:55px; float:left; margin:14px 0 0 0}
+.orta2ic2{ width:36px; height:52px; float:left; margin:17px 0 0 60px}
+.orta2ic3{ width:42px; height:51px; float:left; margin:18px 0 0 60px}
+.orta2ic4{ width:71px; height:69px; float:left; margin:0 0 0 300px}
+.orta2ic5{ width:67px; height:69px; float:left; margin:0 0 0 40px}
+.orta2ic6{ width:67px; height:69px; float:left; margin:0 0 0 40px}
+
+.orta4 span{font:bold 19px helvetica; color:#333  }
+.orta5ic{ width:360px; height:300px; text-align:center;font:14px helvetica; color:#ddd}
+.orta5ic span{font:bold 22px helvetica; color:#eee}
+.orta6 ul li{ float:left; display:block; width:210px; height:35px; text-align:center; padding:10px 0 0 0; font:500 22px helvetica; color:#666  }
+.orta7 ul li{ float:left; display:block; width:176px; height:229px; margin:0 17px 0 17px}
+
+.orta8 ul li{ display:block; float:left; height:229px; text-align:center; font:500 20px helvetica ;line-height:60px;  color:#666   }
+.orta8 ul li#p1{ width:190px }
+.orta8 ul li#p2{ width:230px }
+.orta8 ul li input{ width:90px; height:24px; background:url(images/satinal.png) no-repeat; border:none; cursor:pointer }
+
+.alt ul li{ float:left; display:block; height:20px; font:13px helvetica; color:#666 }
+.alt ul li#a1{ width:250px; letter-spacing:-1px}
+.alt ul li#a2{ width:170px; text-align:center}
+.alt ul li#a3{ width:150px; text-align:center}
+.alt ul li#a4{ width:170px; text-align:center}
+.alt ul li#a5{ width:100px; text-align:center}
+.alt ul li a{font:13px helvetica; color:#666; text-decoration:none}
+.alt ul li a:hover{text-decoration:underline}

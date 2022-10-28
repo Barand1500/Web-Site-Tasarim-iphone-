@@ -1,0 +1,192 @@
+.üst{
+    width: 100%; 
+    height: 46px;
+    background-color: black;
+}
+
+body{
+    background-color: bisque;
+}
+
+.orta1{
+    width: 100%;
+    height: 575px;
+}
+
+.orta2{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+.alt{
+    width: 100%;
+    height: 64px;
+    background-color: white;
+    padding: 18px 0 0 0;
+}
+
+.menu{
+    width: 1078px;
+    height: 46px;
+    margin: 0 auto;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li{
+    float: left;
+}
+
+.menu ul li a{
+    display: block;
+    width: 90px;
+    height: 20px;
+    text-decoration: none;
+    font:14px tahoma;
+    color: white;
+    text-align: center;
+    margin: 15px 0 0 0;
+}
+
+.menu ul li a:hover{
+    text-decoration: underline;
+    font: bold 15px tahoma;
+    opacity: 0.5;
+}
+
+.spot{
+    width: 280px;
+    height: 240px;
+    background-image: url(images/ipad.png);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ipadgörsel{
+    width: 1193px; height: 34px;
+    margin: 0 auto;
+    background-image: url(images/ipadgörsel.png);
+}
+
+.ipadalt{
+    width: 375px; height: 40px;
+    margin: 50px auto 0 auto;
+}
+
+.ipadaltsol{
+    width: 145px; height: 40px;
+    float: left;
+}
+
+.ipadaltsag{
+    width: 220px; height: 40px;
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+.ipadaltsol a{
+    text-decoration: none;
+    font: 25px tahoma;
+    color: #08c;
+}
+
+.ipadaltsag a{
+    text-decoration: none;
+    font: 25px tahoma;
+    color: #08c;
+}
+
+.ipadaltsol a:hover{
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+.ipadaltsag a:hover{
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+.orta2 ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.orta2 ul li{
+    float: left;
+    display: block;
+    width: 25%;
+}
+
+.orta2 ul li a{
+    display: block;
+    height: 200px;
+    text-indent:-2000px;
+}
+
+.orta2 ul li#a1 a{
+    background-image: url(images/resim1.png) ;
+    background-position: center; 
+}
+
+.orta2 ul li#a2 a{
+    background-image: url(images/resim2.png);
+    background-position: center;
+    margin: 0 0 0 5px;
+}
+
+.orta2 ul li#a3 a{
+    background-image: url(images/resim3.png);
+    background-position: center;
+    margin: 0 0 0 5px;
+}
+
+.orta2 ul li#a4 a{
+    background-image: url(images/resim4.png);
+    background-position: center;
+    margin: 0 0 0 5px;
+}
+
+.alt1{
+    width: 450px; height: 15px;
+    font: 11px arial;
+    margin: 0 auto;
+    color: #666;
+}
+
+.alt2{
+    width: 430px; height: 15px;
+    font: 11px arial;
+    margin: 0 auto;
+    color: #666;
+    margin: 5px auto;
+}
+
+.alt3{
+    width: 390px; height: 15px;
+    margin: 0 auto;
+    color: #666;
+}
+
+.alt1 a, .alt2 a{
+    font: 11px arial;
+    color: #333;
+    text-decoration: none;
+}
+
+.alt3 a{
+    font: 11px arial;
+    color: #666;
+    text-decoration: none;
+}
+
+
+.alt1 a:hover, .alt2 a:hover, .alt3 a:hover{
+    text-decoration: underline;
+    font: bold 11px arial;
+}
